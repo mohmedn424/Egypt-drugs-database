@@ -1,5 +1,5 @@
 # Egypt-drugs-database
-**this is a full database^1^ for Egypt drugs with latest prices**
+**this is a full database[^1] for Egypt drugs with latest prices**
 I'm going to try to keep updating the repo at least once every month, And the latest prices file will be at the root
 ---
 
